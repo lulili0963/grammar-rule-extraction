@@ -8,7 +8,7 @@ For the whole work, there are 5 steps.
 
 First, we construct our own training data through SUD treebanks. We only focus on French and English corpora.
 
-Second, we extend the basic Sigmoid Belief Network to the training data because we have discrete data in the training dataset.
+Second, we adapt the basic Sigmoid Belief Network to the training data because we have discrete data in the training dataset.
 
 Third, we use proximal methods to train our SBN model to get a sparse model. In order to achieve this goal, we use L1-norm during the training process.
 
