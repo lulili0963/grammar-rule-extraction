@@ -1,6 +1,6 @@
 # grammar-rule-extraction
 
-This is the master internship work in LISN.
+This is the internship work.
 
 The objective of this internship is to extract agreement rules, one of the grammatical phenomena, via interpretable generative modeling.
 
